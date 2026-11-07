@@ -1,0 +1,11 @@
+[package]
+name = "ripple"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+glam = "0.34.2"
+
+#[profile.release]
+#opt-level = 3
+#debug = true
